@@ -17,7 +17,6 @@
     <br>
     <a href="https://github.com">This is Link of GITHUB</a>
     <a href="https://portal.azure.com">This is Link of Azure</a>
-    <h2>Love Jake</h2>
     <ul>
         <li>Google</li>
         <li>Yahoo</li>
