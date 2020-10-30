@@ -6,7 +6,7 @@
 
 <body>
     <h1>Jake Advengers time</h1>
-    <p>Jake is Dog that have friend name "Fin"</p>
+    <p>Jake is Dog that have friend name Fin</p>
     <img src="jake.jpg">
     <br>
     <a href="http://www.it.kmitl.ac.th">This is Link</a>
