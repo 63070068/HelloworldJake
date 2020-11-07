@@ -13,7 +13,7 @@
 <body>
     <h1 align="center">Tiwat Parkpoompaisal</h1>
     <h2 align="center">Nick name: Jean</h2>
-    <img src="meme.jpg" width="500px">
+    <img src="img/content/office16.jpg" width="500px">
     <p>กาลครั้งหนึ่งนานมาแล้ว เมื่อตอนผมเรียน ประถมศึกษาปีที่ 2</p>
     <p>โรงเรียนประถมของผมมีวิชา ตีกอล์ฟ ก่อนที่อาจารย์จะเริ่มสอนนั้น</p>
     <p>เพื่อนของผมบอกผมว่าปวดขี้ แต่ผมไม่เชื่อเลยรีบวิ่งตามเพื่อนไปแล้วเตะตูดเพื่อน</p>
